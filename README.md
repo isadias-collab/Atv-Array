@@ -136,24 +136,6 @@ Após executar o sistema, responda:
 
 ---
 
-## ⚠️ Observação Importante
-
-Existe um erro de digitação no código fornecido:
-
-```javascript
-frutas.lenght
-```
-
-O correto é:
-
-```javascript
-frutas.length
-```
-
-Esse erro impede que a verificação do tamanho do array funcione corretamente.
-
----
-
 ## 🚀 Possíveis Melhorias Futuras
 
 - Corrigir o erro da propriedade `length`
